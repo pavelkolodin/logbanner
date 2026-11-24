@@ -1,0 +1,4 @@
+NULL "/robots.txt"
+/*.env "/.env"
+*/wp-includes/wlwmanifest.xml "/2018/wp-includes/wlwmanifest.xml"
+/*.php "/phpinfo.php"
